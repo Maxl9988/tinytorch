@@ -1,5 +1,5 @@
 [project]
-name = "own-tiny-torch"
+name = "tiny-torch"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
