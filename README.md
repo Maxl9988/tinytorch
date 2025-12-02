@@ -5,10 +5,13 @@ This repository contains a version of **TinyTorch** without the original Tito Gu
 ---
 
 ## Quick Start Guide
+Install uv: [Astral uv](https://docs.astral.sh/uv/getting-started/installation/)  
 ```
 git clone https://github.com/Maxl9988/tinytorch.git
+cd tinytorch
+uv sync
 
-
+# Open VS-Code and choose the kernel tiny-torch
 ```
 ---
 
